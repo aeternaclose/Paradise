@@ -301,6 +301,14 @@
 	cost = 20 //huge
 	allow_duplicates = FALSE
 
+/datum/map_template/ruin/lavaland/lavalake
+	name = "Lava Lake"
+	id = "lavalake"
+	description = "Ruined lava lake , where ashes fishing for food."
+	suffix = "lavaland_surface_lavalake.dmm"
+	always_place = TRUE
+	allow_duplicates = FALSE
+
 /*
 /datum/map_template/ruin/lavaland/althland_facility
 	name = "Althland Facility"
